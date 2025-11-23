@@ -1,0 +1,9 @@
+{
+	"name": "factoryomstorage",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2f671d8-9a71-479e-86e5-57696ea6387b",
+		"tenantId": "699629f1-ed22-4702-8dce-071b47f870a2"
+	}
+}
